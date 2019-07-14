@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rattle", "RattleStuffs\Rattle\Rattle.csproj", "{25F1A721-813A-42DB-A257-53B52F44FC36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RattleNotifications", "RattleStuffs\RattleNotifications\RattleNotifications.csproj", "{544CBA50-BABC-4ED8-9596-73CA79A6402A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RattleModels", "RattleStuffs\RattleModels\RattleModels.csproj", "{599E5CE1-D4A1-48D4-8C25-92F0559F513C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RattleWeb", "RattleStuffs\RattleWeb\RattleWeb.csproj", "{64E4C23B-D966-4EFF-9222-57ED48EDFBAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25F1A721-813A-42DB-A257-53B52F44FC36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25F1A721-813A-42DB-A257-53B52F44FC36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25F1A721-813A-42DB-A257-53B52F44FC36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25F1A721-813A-42DB-A257-53B52F44FC36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{544CBA50-BABC-4ED8-9596-73CA79A6402A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{544CBA50-BABC-4ED8-9596-73CA79A6402A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{544CBA50-BABC-4ED8-9596-73CA79A6402A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{544CBA50-BABC-4ED8-9596-73CA79A6402A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{599E5CE1-D4A1-48D4-8C25-92F0559F513C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{599E5CE1-D4A1-48D4-8C25-92F0559F513C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{599E5CE1-D4A1-48D4-8C25-92F0559F513C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{599E5CE1-D4A1-48D4-8C25-92F0559F513C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64E4C23B-D966-4EFF-9222-57ED48EDFBAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64E4C23B-D966-4EFF-9222-57ED48EDFBAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64E4C23B-D966-4EFF-9222-57ED48EDFBAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64E4C23B-D966-4EFF-9222-57ED48EDFBAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61A78B04-9B91-4935-A9AB-7F9CAFBF4BB7}
+	EndGlobalSection
+EndGlobal
